@@ -10,7 +10,6 @@ header{
 
 }
 
-
 .logo {
   width: 200px;
 }
@@ -22,7 +21,14 @@ header{
 
 .celeste-chiaro {
   background-color:rgb(31, 157, 173);
+  height: 7px;
+
 }
+
+.titolo {
+  width: 500px;
+}
+
 .monitor {
   background-image: url("../img/monitor.jpg");
   color: white;
