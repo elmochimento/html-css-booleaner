@@ -17,16 +17,18 @@ header{
 .celeste {
   background-color: aqua;
   color: white;
+
 }
 
 .celeste-chiaro {
   background-color:rgb(31, 157, 173);
-  height: 7px;
 
 }
 
 .titolo {
   width: 500px;
+  padding: 0;
+
 }
 
 .monitor {
