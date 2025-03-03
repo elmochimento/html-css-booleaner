@@ -1,0 +1,31 @@
+header{
+  background-image: url("../img/pattern.png");
+  background-color: rgb(51, 180, 255);
+  background-size: contain;
+  padding-top: 40px;
+}
+
+.grigio {
+  color: rgba(82, 75, 75, 0.678);
+
+}
+
+
+.logo {
+  width: 200px;
+}
+
+
+.monitor {
+  background-image: url("../img/monitor.jpg");
+  color: white;
+  background-repeat: no-repeat;
+
+
+}
+
+.monitor-due {
+  background-image: url("../img/graph.jpg");
+  background-repeat: no-repeat;
+  color: white;
+}
